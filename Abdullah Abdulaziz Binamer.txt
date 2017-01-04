@@ -1,5 +1,4 @@
 
-
 fName: Abdullah
 الاسم : عبدالله
 
@@ -15,7 +14,11 @@ Courses: Introduction to information systems- system design and analysis- web de
 المواد السابقة : مقدمة في نظم المعلومات ----------
 
 Instuctors: Dr.Ahmed Sameh – Dr.Anis Zarra- Dr. Ibrahim Abu nadi- Dr. Mohammad Zarror – Dr. Jaber Jamei
+المحاضرين : د.أحمد سامح - د. أنيس زراد -د.إبراهيم أبو نادي - د.محمد زعرور - د. جابر جميعي
 
 Future job: Business Analyst 
+الوظيفة المستقبلية: محلل مشاريع
 Future Company: Pwc
+الشركة المستقبلية : pwc
 Thank you Dr.Ahmed Sameh…
+شكرا لك د.أحمد سامح...
