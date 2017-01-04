@@ -1,4 +1,5 @@
 
+
 fName: Abdullah
 الاسم : عبدالله
 
@@ -7,8 +8,11 @@ LName: Binamer
 BoD: 19/12/1993
 تاريخ الميلاد : 19/12/1993
 Id: 213111033
+ الرقم الجامعي :213111033
 Major: IS
+التخصص: نظم معلومات 
 Courses: Introduction to information systems- system design and analysis- web dev- database- BPM- Innovation- EA- Configuration
+المواد السابقة : مقدمة في نظم المعلومات ----------
 
 Instuctors: Dr.Ahmed Sameh – Dr.Anis Zarra- Dr. Ibrahim Abu nadi- Dr. Mohammad Zarror – Dr. Jaber Jamei
 
