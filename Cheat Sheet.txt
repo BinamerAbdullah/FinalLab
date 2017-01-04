@@ -1,0 +1,56 @@
+----------------------------------------CREAT----------------------------------------------------
+init : create an empty GitHub Repository.
+clone: clone a repository into a new directory.
+
+--------------------------------------BROWSE-----------------------------------------------------
+status: To show the working tree status.
+log: To show commit logs (histoy of the commit).
+show: show various types of objects.
+diff: show changes between commits, commit and working tree, etc
+branch: list, create, or delete branches.
+
+-----------------------------------------Revert--------------------------------------------------
+reset: reset current HEAD to spcified state.
+checkout: switch branches or restore working tree files.
+revert: reverting undoes a commit by creating a new commit ( Safe Way To Undo Changes).
+
+-----------------------------------------Update---------------------------------------------------
+pull: fetch from and integrate with another repository or a logical branch.
+fetch: download objects and refs from another repository.
+merge: join two or more development histories together.
+am: apply a series of patches from a mailbox.
+
+--------------------------------------Branch--------------------------------------------------------
+checkout: switch branches or restore working tree files.
+branch: list, create, or delete branches.
+
+----------------------------------------Commit------------------------------------------------------
+commit:record changes to the repository
+
+--------------------------------------Pubish--------------------------------------------------------
+Push: update remote refs along with associated objects.
+
+
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+---------------------------------------4-Explain----------------------------------------------------
+
+
+
+At the beginig we need to creat a new GitHub repository by (git init)
+then should clone it to a new directory by (git clone "repository URL")
+
+for browsing the repository we use (git status) to the working tree status and the files in there.
+and the (git log) to see the history and (get diff) to see the changes between commits
+then they creat a new branch by using (branch). 
+
+after that if they want to make changes the can update the repository by (git pull ) and this will download 
+the files from the repository to the sand box file 
+
+after pulling they can change the code by adding or deleting and then can use (git add -A) to add all the 
+files in the repository folder then the can commit by (git commit -m"the commit massage")
+
+then they can publish the folder by (git push) to upload it in the github repositoy.
+
+and they went to revert before publishing the can by usying (git reset) to remove all changes.
