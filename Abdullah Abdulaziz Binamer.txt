@@ -1,12 +1,17 @@
+
 fName: Abdullah
+الاسم : عبدالله
+
 LName: Binamer
+اسم العائة : بن عامر
 BoD: 19/12/1993
+تاريخ الميلاد : 19/12/1993
 Id: 213111033
 Major: IS
 Courses: Introduction to information systems- system design and analysis- web dev- database- BPM- Innovation- EA- Configuration
 
-Instuctors: Dr.Ahmed Sameh � Dr.Anis Zarra- Dr. Ibrahim Abu nadi- Dr. Mohammad Zarror � Dr. Jaber Jamei
+Instuctors: Dr.Ahmed Sameh – Dr.Anis Zarra- Dr. Ibrahim Abu nadi- Dr. Mohammad Zarror – Dr. Jaber Jamei
 
 Future job: Business Analyst 
 Future Company: Pwc
-Thank you Dr.Ahmed Sameh�
+Thank you Dr.Ahmed Sameh…
